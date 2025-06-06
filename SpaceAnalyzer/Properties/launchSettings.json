@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SpaceAnalyzer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
